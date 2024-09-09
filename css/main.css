@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+h2{
+    text-align: center;
+    font-family: "Nanum Gothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: grey;
+}
+h1{
+    text-align: center;
+    font-family: "Noto Sans", sans-serif;
+    color: grey;
+}
+h3{
+    font-family: "Poppins", sans-serif;
+}
+.bar{
+    text-align: center;
+    border: 2px solid black;
+}
+img{
+    width: 100%;
+    margin-top: 50px;
+}
+.second{
+    font-family: "Poppins", sans-serif;
+    text-align: left;
+    color: black;
+}
+p{
+    margin-bottom: 20px;
+}
+.read{
+    border: 2px solid grey;
+    padding: 9px;
+
+}
+.more{
+    border-bottom: 5px solid grey;
+    padding: 20px;
+    margin-top: 50px;
+
+}
+.bag{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.date a{
+    margin-top: 20px;
+    background-color: rgb(2, 216, 127);
+    color: white;
+}
+.date p{
+    color: rgb(2, 216, 127);
+}
+.day p{
+    color: rgb(2, 216, 127);
+}
+.gg p{
+color: rgb(2, 216, 127);
+}
