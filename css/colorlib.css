@@ -28,6 +28,10 @@ color: #1eb2a6;
     padding-top: 20px;
     color: white;
     font-size: 25px;
+
+}
+.headin h1{
+    padding-left: 30px;
 }
 .ss{
     color: white;
@@ -207,6 +211,7 @@ font-size: 20px;
  .pricebord h1{
     padding-top: 30px;
  }
+
  .start{
     border: 2px solid #1eb2a6;
     padding: 10px;
@@ -279,4 +284,54 @@ font-size: 20px;
 }
 .text-clr{
     color: black;
+    padding-bottom: 30px;
 }
+.gapping{
+    padding-bottom: 30px;
+}
+.gapper{
+    padding-bottom: 30px;
+}
+.girlimg{
+    background-image: url(../img/web.webp);
+    background-position: center center;
+background-size: cover;
+padding-top: 10px;
+
+}
+
+
+
+
+
+
+
+@media (min-width: 100px) and (max-width: 991.98px) { 
+    
+h1{ font-size: 20px;}
+p{ font-size: 12px;}
+.session1 .material-symbols-outlined{ font-size: 40px;}
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+    h1{ font-size: 30px;}
+    p{ font-size: 16px;}
+    .session1 .material-symbols-outlined{ font-size: 60px;}
+    }
+
+
+
+
+    @media (min-width: 992px) and (max-width: 1199.98px) { 
+        
+        .ss{padding-left: 50px;}
+
+
+    }
+    @media (min-width: 768) and (max-width: 991.98px) { 
+
+        
+    }
+    
